@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100vh;
-  background: #ffb6c1; /* pink background */
+  background: #ffb6c1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10,15 +10,14 @@ body {
 
 .container {
   background: white;
-  padding: 60px;              /* bigger box */
-  width: 30% larger;          /* visual increase via padding */
+  padding: 60px; /* 30% bigger */
   border-radius: 25px;
   text-align: center;
   box-shadow: 0 25px 50px rgba(0,0,0,0.25);
 }
 
 .cute-img {
-  width: 120px;
+  width: 130px;
   margin-bottom: 20px;
 }
 
@@ -55,7 +54,7 @@ button {
 }
 
 .yes-gif {
-  width: 220px;
+  width: 240px;
   margin-top: 20px;
 }
 
